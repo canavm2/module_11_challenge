@@ -19,10 +19,13 @@ Since the worksheet runs on Google Colab, none of the dependencies need to be in
 ## Installation Guide
 
 Launch Google Colab by navigating here: [Googel Cloab](https://colab.research.google.com/)
+
 Choose Upload from the popup screen and select the worksheet.
+
 The first few cells will install and launch all the dependencies.
 
 Meta(FB) Prophet is utilized in the forecasting and information for it can be located here: [Meta Prophet](https://facebook.github.io/prophet/)
+
 ---
 
 ## Usage
